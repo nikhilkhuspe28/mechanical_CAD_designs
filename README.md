@@ -8,3 +8,5 @@ Made 3d models of mechanical parts using FUSION360 software.
 ![MAD 3](https://github.com/user-attachments/assets/acd374e8-0420-4f9e-956a-8a86d09704e7)
 # Model 4
 ![MAD 4](https://github.com/user-attachments/assets/16dceed9-4d22-4647-8caa-fb3853ca33a5)
+# Model 5
+![MAD 5](https://github.com/user-attachments/assets/fef85011-9ec6-4028-a6ff-85f7d841ad8f)
